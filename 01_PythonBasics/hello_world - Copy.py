@@ -33,7 +33,7 @@ c.replace('banana','apple')
 c.upper().lower().split(" ").upper()
 c.upper().lower().split(" ")
 
-dir(c) 
+dir(c)
 
 #functions
 def add(x,y):
@@ -144,30 +144,5 @@ global a
 for i in range(5,-5,-1):
     print(5/i)
 
-first = input("First: ")
-second = input("Second: ")2
-print(f"Sum is {float(first) + float(second)}")
-
-x = "I"
-
-weight = input("Weight:" )
-
-measurement = input("Kg or Lbs: ")k
-if measurement == "L" or measurement == "l":
-    print(f"Weight in Kg: {float(weight)*2.2}")
-elif measurement == "K" or measurement == "k":
-    print(f"Weight in Lbs: {float(weight)/0.45 }")
-
-i = 1
-while i <= 10000:
-    print(i)
-    i = i+1
-
-#Lecture 2
-list("hello")
-
-squares = [x**2 for x in range(10)] # WE CAN DO IT IN ONE LINE
-squares
-
-matrix = [[1,2,3],[1,2,3], [1,2,3]]
-matrix
+b.extend([1])
+b
