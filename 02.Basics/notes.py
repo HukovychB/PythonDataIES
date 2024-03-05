@@ -70,3 +70,17 @@ def converter(romnum):
     return result
 
 roman_to_int("XM")
+
+def converter(number):
+        roman_numbers = {"I": 1,"V": 5,"X": 10,"L": 50,"C": 100,"D": 500,"M": 1000}
+        num = 0
+        prev_num = 0
+        for char in number:
+            value=roman_numbers[char]
+            if value > prev_num:
+                num+=roman_numbers[char]- 2*prev_num
+            else:
+                num+=roman_numbers[char]
+            prev_num=value
+        return(num)
+converter("IIV")
