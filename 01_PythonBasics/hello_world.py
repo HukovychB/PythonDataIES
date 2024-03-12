@@ -171,3 +171,8 @@ squares
 
 matrix = [[1,2,3],[1,2,3], [1,2,3]]
 matrix
+
+list11 = list('ht')
+list11.index("t")
+for i in list11:
+    i == list11[]

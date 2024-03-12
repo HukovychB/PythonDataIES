@@ -84,3 +84,25 @@ def converter(number):
             prev_num=value
         return(num)
 converter("IIV")
+
+def twoSum(nums, target):
+    for i in range(len(nums)):  # Use range(len(nums)) to iterate over indices
+        for j in range(i+1, len(nums)):  # Start inner loop from i+1 to avoid duplicate pairs
+            if nums[i] + nums[j] == target:
+                return [i, j]
+twoSum(nums=[3,2,4],target=6)                        
+str(12)
+for i in str(12):
+    print(i)
+list11.index("t")
+for i in list11:
+    i == list11[]
+
+my_list1 = [0,1,2,3]
+my_list2 = [0,1,2,3]
+my_list1 == my_list2
+def isPalindrome(x):
+        num = list(str(x))
+        reversed_num = list(str(x))[::-1]
+        return(num == reversed_num)
+isPalindrome(12222221)
