@@ -175,4 +175,16 @@ matrix
 list11 = list('ht')
 list11.index("t")
 for i in list11:
-    i == list11[]
+    i == list11
+
+import itertools
+import random
+arr = [1, 2, 3, 4, 5,6,7,8]
+combinations = []
+for _ in range(len(arr)):
+    combinations.extend(list(itertools.combinations(random.sample(arr, 4), 4)))
+print(combinations)
+
+all_comb = list(itertools.combinations(arr, 4))
+print(all_comb)
+len(all_comb)
