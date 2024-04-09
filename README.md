@@ -10,27 +10,28 @@ The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni
 ## Communication
 Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz) only. 
 
-
+<!--
 ## Midterm - April 8
 
-* Here is [preview of instructions](https://drive.google.com/file/d/1tYHj-f1xOO1R7HJqC-LVGTAogMbYGPuR/view?usp=sharing). Please note that no further hints or sample questions will be provided. This line will be updated at the start of the exam. 
-* You are expected to be present in the lecture room during the exam.
+* Here are [midterm instructions](https://drive.google.com/file/d/1K1VC0iJbSKGQvcF_9nPOFFrhbpK_l00f/view?usp=sharing). 
 * Read the instructions carefully.
 * Prepare your repo in advance, make sure you know how to commit your solution! Submissions are **only** accepted through the Google form, no other forms (i.e. emails) are allowed!
-<!--
-* Make sure you **committed** your code. Upload link to your solution [to the form here.](https://forms.gle/YngeLSeq8XM48P5z7)
+
+
+* Make sure you **committed** your code. Upload link to your solution [to the form here.](https://forms.gle/wMjSWZQtuWKy3nv47)
 * You will find marks in SIS under your name, hopefully within a week. 
 -->
 
-<!--
-## Final project
-* [Submit you proposal here](https://forms.gle/w7Ct7nCr5P5JM3Uz8)
-* See full instructions below schedule 
 
-## Project - paring
+## Final project
+<!-- * [Submit you proposal here](https://forms.gle/w7Ct7nCr5P5JM3Uz8) -->
+### Project - paring
 * If you are looking for a partner [use this google sheet](https://docs.google.com/spreadsheets/d/1edVcoztzwrkDS2uqdw_t45c4bt5AX_2IthaPTEG-D78/edit#gid=0) with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others.
 
--->
+* See full instructions below schedule 
+
+
+
 <!--
 ## FAQ - pre semester
 
