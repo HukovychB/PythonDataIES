@@ -40,4 +40,5 @@ def test_eval(test_input, expected):
 ) 
 def test_drop_diacritics(original:str, output:str) -> None:
     assert drop_diacritics(original) == output
-    
+
+
